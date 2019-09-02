@@ -1,0 +1,171 @@
+iotkit-embedded/mqtt/iotx_mqtt_client.o: \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/iotx_mqtt_client.c \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/mqtt_internal.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/stdio.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/_ansi.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/newlib.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/config.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/features.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/cdefs.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/_default_types.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/reent.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/_ansi.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/_types.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/_types.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/lock.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/types.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/types.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/sched.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/stdio.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/stdlib.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/stdlib.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/alloca.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/string.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/string.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_types.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_config.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/stdint.h \
+ F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/_intsup.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_defs.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_types.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_string.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_list.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_compat.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_defs.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_list.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_log.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_report.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_net.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_sha256.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_api.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_internal.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_config.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_config.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_api.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_wrapper.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/mqtt_wrapper.h \
+ F:/msys32/home/Administrator/esp-aliyun/wrappers/wrappers_defs.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/mqtt_api.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/iotx_mqtt_config.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/iotx_mqtt_client.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_timer.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTPacket.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTConnect.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTPublish.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTSubscribe.h \
+ F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTUnsubscribe.h
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/mqtt_internal.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/stdio.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/_ansi.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/newlib.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/config.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/ieeefp.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/features.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/cdefs.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/_default_types.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/reent.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/_ansi.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/_types.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/_types.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/lock.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/types.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/types.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/sched.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/stdio.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/stdlib.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/machine/stdlib.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/alloca.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/string.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/string.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_types.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_config.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/stdint.h:
+
+F:/msys32/home/Administrator/esp/esp-idf/components/newlib/include/sys/_intsup.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_defs.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_types.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_string.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_list.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_compat.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_defs.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_list.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_log.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_report.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_net.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_sha256.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_api.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_internal.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_config.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_config.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_api.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/dev_sign/dev_sign_wrapper.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/mqtt_wrapper.h:
+
+F:/msys32/home/Administrator/esp-aliyun/wrappers/wrappers_defs.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/mqtt_api.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/iotx_mqtt_config.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/iotx_mqtt_client.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/infra/infra_timer.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTPacket.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTConnect.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTPublish.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTSubscribe.h:
+
+F:/msys32/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/MQTTUnsubscribe.h:
+/home/Administrator/esp-aliyun/iotkit-embedded/mqtt/iotx_mqtt_client.c:
